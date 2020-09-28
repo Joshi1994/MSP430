@@ -1,0 +1,1 @@
+"./button.obj" "./drawing.obj" "./lcd.obj" "./lcd_ge8.obj" "./main.obj" "./system.obj" "../lnk_msp430fg4619.cmd" -l"libc.a" 
